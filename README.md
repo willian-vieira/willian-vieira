@@ -6,7 +6,7 @@
 
 :house_with_garden: Sou de Campinas-SP.
 
-:books: Estudando Micro-Serviços com Java Spring Boot, React.Js, Angular e Vue.Js.
+:books: Estudando Micro-Serviços com Java Spring Boot, React.Js e Angular.
 
 👨‍💻 Atualmente trabalhando com Java 8, HTML5, CSS3, JavaScript, Node.js, Vue.js
 
